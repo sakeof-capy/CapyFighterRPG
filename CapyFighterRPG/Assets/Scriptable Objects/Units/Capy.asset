@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434ef0eaba0b2064d994f3a5c39a5e13, type: 3}
+  m_Name: Capy
+  m_EditorClassIdentifier: 
+  _animator: {fileID: 9100000, guid: ba89769c03de3484d9f48160c9a744e4, type: 2}
+  _avatarIcon: {fileID: 21300000, guid: 8143d62c37f1df34eb73b3b99a4c01b7, type: 3}
+  _maxHP: 100
+  _maxMP: 150
+  _attackDamage: 10
+  _attackManaCost: 20
+  _superAttackDamage: 40
+  _superAttackManaCost: 50
+  _maxShieldHP: 30
+  _shieldManaCost: 30
+  _manaRegainRate: 5
+  _scale: {x: 1, y: 1, z: 1}
+  _attackSound: {fileID: 8300000, guid: edfea83fdddc939458d71a12487f0342, type: 3}
+  _superAttackSound: {fileID: 8300000, guid: 29891d55dc258e44c9fb73b3aed5f036, type: 3}
+  _shieldEquipedSound: {fileID: 8300000, guid: becff7cbd0d36324e93196bc7e7a7d85, type: 3}
+  _shieldBrokenSound: {fileID: 8300000, guid: 0d782d02c39a9454b8c3518b030efbfd, type: 3}
+  _shieldHurtSound: {fileID: 8300000, guid: 41c41891e6757b04d84d90ef9eca4caa, type: 3}
+  _movingSound: {fileID: 8300000, guid: 6a3e6167b4d25024b90030713b958199, type: 3}
+  _hurtSound: {fileID: 8300000, guid: 5c48bb8704c742f40aa5e9f201e7e4ad, type: 3}
+  _dieSound: {fileID: 8300000, guid: 774b8dc1995775d498835ec4dc14590c, type: 3}

@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StateMachine" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAgAIQIAACAAAAAAAAAACAAAAAAAJAA=</HashCode>
+      <FileName>Assets\Scripts\States\StateMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CombatController" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QASIA0hBAKADAgQAQEAAAAECCJUAQBCACQAChKAQVkE=</HashCode>
+      <FileName>Assets\Scripts\CombatController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HUD" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEAAAAEAAAAAAABIQBAAAAAAEEABBAAAAEAABEAACEA=</HashCode>
+      <FileName>Assets\Scripts\HUD\HUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgressBar" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAACACIAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\HUD\ProgressBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitInfo" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAJQAEAYAAAAAACAAAEAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\HUD\UnitInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitData" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAARAIAQAAABAACAEAAAAAAAAAAIJCAgEAQAAAI=</HashCode>
+      <FileName>Assets\Scripts\Scriptable Objects\UnitData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fighter" Collapsed="true">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKAAAAAACgARCAgAAAAEAAAAOUAAACAAJAAAEAABEI=</HashCode>
+      <FileName>Assets\Scripts\Unit Components\Fighter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unit" Collapsed="true">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAARJAAQAAAAAACAEAAAAAAAAAAAIAAiEAQACEA=</HashCode>
+      <FileName>Assets\Scripts\Unit Components\Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DamageViewer" Collapsed="true">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAACAAAAAAAAAACAAAAAIAAAAACQAAEA=</HashCode>
+      <FileName>Assets\Scripts\DamageViewer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FieldMetricSpace" Collapsed="true">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAACAAIAABAAAAAAAAACCAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\FieldMetricSpace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseShower" Collapsed="true">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAQAAAAAAAAABAEA=</HashCode>
+      <FileName>Assets\Scripts\PauseShower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spawner" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAAAAAAAARAgAgKIQBABAAIAEIEBQAgAGgAAIAgECEA=</HashCode>
+      <FileName>Assets\Scripts\Spawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAQAAAAAAAAAAIAAAAAIAA=</HashCode>
+      <FileName>Assets\Scripts\States\State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyTurnState" Collapsed="true">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAEAAIAA=</HashCode>
+      <FileName>Assets\Scripts\States\EnemyTurnState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PausableState" Collapsed="true">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAIAA=</HashCode>
+      <FileName>Assets\Scripts\States\PausableState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeroTurnState" Collapsed="true">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAIEAAIAA=</HashCode>
+      <FileName>Assets\Scripts\States\HeroTurnState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseState" Collapsed="true">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAEQAIAA=</HashCode>
+      <FileName>Assets\Scripts\States\PauseState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LossState" Collapsed="true">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAEQAIAA=</HashCode>
+      <FileName>Assets\Scripts\States\LossState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinState" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAEQAIAA=</HashCode>
+      <FileName>Assets\Scripts\States\WinState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VectorGrid" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAAAAQEAAAAAQCCAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Basic Operations\VectorGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChangeScene" Collapsed="true">
+    <Position X="1.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Title\ChangeScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyAI" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AI\EnemyAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

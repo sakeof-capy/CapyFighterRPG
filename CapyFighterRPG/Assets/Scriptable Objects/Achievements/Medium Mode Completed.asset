@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2efd8f31f58615847ac240f27ceac900, type: 3}
+  m_Name: Medium Mode Completed
+  m_EditorClassIdentifier: 
+  _type: 7
+  _name: Medium Mode
+  _firstStarPoints: 1
+  _secondStarPoints: 10
+  _thirdStarPoints: 100
+  _firstStarDescription: Complete Medium Mode once
+  _secondStarDescription: Complete Medium Mode 10 time
+  _thirdStarDescription: Complete Medium Mode 100 time

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CombatController
+  - GameMusic
+  - Unit
+  - ButtonToBlockProvidedNoSavings
+  - LeftArrow
+  - RightArrow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3615223341
+    locked: 0
+  - name: Foreground
+    uniqueID: 3185007139
+    locked: 0
+  - name: Menu
+    uniqueID: 3453840743
+    locked: 0
+  - name: WinLossPause
+    uniqueID: 3714307983
+    locked: 0

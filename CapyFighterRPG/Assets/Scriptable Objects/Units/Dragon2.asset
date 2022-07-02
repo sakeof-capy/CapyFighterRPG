@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434ef0eaba0b2064d994f3a5c39a5e13, type: 3}
+  m_Name: Dragon2
+  m_EditorClassIdentifier: 
+  _animator: {fileID: 9100000, guid: 054d50dd1a26c7f4da37d9adc3013e65, type: 2}
+  _avatarIcon: {fileID: 21300000, guid: 46cdaadd947e34143bee70dfbf468923, type: 3}
+  _maxHP: 120
+  _maxMP: 50
+  _attackDamage: 20
+  _attackManaCost: 15
+  _superAttackDamage: 50
+  _superAttackManaCost: 40
+  _maxShieldHP: 30
+  _shieldManaCost: 10
+  _manaRegainRate: 5
+  _scale: {x: 1.2, y: 1.2, z: 1}
+  _attackSound: {fileID: 8300000, guid: edfea83fdddc939458d71a12487f0342, type: 3}
+  _superAttackSound: {fileID: 8300000, guid: 29891d55dc258e44c9fb73b3aed5f036, type: 3}
+  _shieldEquipedSound: {fileID: 8300000, guid: becff7cbd0d36324e93196bc7e7a7d85, type: 3}
+  _shieldBrokenSound: {fileID: 8300000, guid: 0d782d02c39a9454b8c3518b030efbfd, type: 3}
+  _shieldHurtSound: {fileID: 8300000, guid: 41c41891e6757b04d84d90ef9eca4caa, type: 3}
+  _movingSound: {fileID: 8300000, guid: 6a3e6167b4d25024b90030713b958199, type: 3}
+  _hurtSound: {fileID: 8300000, guid: adc01c54b307ab64a872c1ac4c87efa6, type: 3}
+  _dieSound: {fileID: 8300000, guid: 9dc36303a18ca64439492f9ff5ea60fa, type: 3}

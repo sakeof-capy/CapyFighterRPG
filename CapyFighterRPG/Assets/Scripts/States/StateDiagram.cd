@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="State" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAQAAAAAAAAAAIAAAAAIAA=</HashCode>
+      <FileName>Assets\Scripts\States\State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateMachine" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAIAAAACAAAAAAAAAAAAAAAAAAJAA=</HashCode>
+      <FileName>Assets\Scripts\States\StateMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyTurnState" Collapsed="true">
+    <Position X="1.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAAAIAA=</HashCode>
+      <FileName>Assets\Scripts\States\EnemyTurnState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PausableState" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\Scripts\States\PausableState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeroTurnState" Collapsed="true">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAQAAAAAAAAAAIAAEAAIAA=</HashCode>
+      <FileName>Assets\Scripts\States\HeroTurnState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseState" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAAAIAA=</HashCode>
+      <FileName>Assets\Scripts\States\PauseState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CombatController" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQoCABAACAAAAQIIFAFAAAAABEQQAQhCAAAAIgQFkA=</HashCode>
+      <FileName>Assets\Scripts\CombatController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
